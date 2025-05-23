@@ -1,6 +1,6 @@
 # Criando um Copilot com Fluxo de Conversa Personalizada no Microsoft Copilot Studio
 
-Este guia descreve passo a passo como criar um copilot com um fluxo de conversa personalizado usando o **Microsoft Copilot Studio**. O objetivo é mostrar como iniciar um projeto do zero, customizar tópicos e mensagens, além de utilizar a inteligência generativa (GenAI) para melhorar a qualidade das respostas.
+Como criei um copilot com um fluxo de conversa personalizado usando o Microsoft Copilot Studio. E o que pude aprender e absrover sobre o Copilot.
 
 ---
 
