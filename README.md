@@ -26,10 +26,9 @@ Como criei um copilot com um fluxo de conversa personalizado usando o Microsoft 
 1. No menu lateral, vá até **"Tópicos"**.
 2. Clique em **"Novo tópico"** ou edite um tópico existente.
 3. Defina os **gatilhos** (palavras-chave ou frases que iniciam o tópico).
-4. Adicione os **nós de mensagem**, **perguntas** e **condições lógicas** para construir o fluxo da conversa.
-5. Você pode usar **expressões condicionais** ou conectar com APIs externas via ações para personalizar ainda mais o comportamento.
+4. Adicione os **mensagens**, **perguntas** e **condições lógicas** para construir o fluxo da conversa.
 
-> 💡 Dica: Utilize variáveis para armazenar respostas do usuário e controlar a navegação entre os nós do tópico.
+OBS: Utilize variáveis para armazenar respostas do usuário e controlar a navegação entre os nós do tópico.
 
 ---
 
