@@ -43,5 +43,3 @@ Quando o Copilot não entende ou falha ao processar um tópico, você pode perso
 
 ```text
 Desculpe, não consegui entender isso. Você pode reformular ou tentar outra opção? 🙂
-
-
