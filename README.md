@@ -7,8 +7,7 @@ Como criei um copilot com um fluxo de conversa personalizado usando o Microsoft 
 ## 🧠 Requisitos
 
 - Conta Microsoft com acesso ao Copilot Studio
-- Navegador compatível (recomendado: Microsoft Edge ou Google Chrome)
-- Conhecimentos básicos sobre fluxos conversacionais
+- Navegador compatível 
 
 ---
 
