@@ -71,7 +71,6 @@ Você pode armazenar a resposta da GenAI em uma variável e usá-la dinamicament
 ---
 
 ## ✅ Conclusão
-Ao seguir este guia, você foi capaz de:
 
 Criar um copilot em branco no Microsoft Copilot Studio
 
