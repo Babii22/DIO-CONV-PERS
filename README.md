@@ -44,6 +44,8 @@ Desculpe, não consegui entender isso. Você pode reformular ou tentar outra op�
 ```
 3. Também é possível redirecionar o usuário para outro tópico a partir do erro, mantendo a conversa fluida.
 
+---
+
 ## 🧬 4. Aumentar ou Diminuir a Qualidade da Resposta com GenAI
 
 O Microsoft Copilot Studio permite incorporar respostas geradas por IA (GenAI) utilizando serviços como o Azure OpenAI. Para controlar a qualidade ou a criatividade da resposta:
@@ -68,7 +70,7 @@ Você pode armazenar a resposta da GenAI em uma variável e usá-la dinamicament
 
 ---
 
-✅ Conclusão
+## ✅ Conclusão
 Ao seguir este guia, você foi capaz de:
 
 Criar um copilot em branco no Microsoft Copilot Studio
